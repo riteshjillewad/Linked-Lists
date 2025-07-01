@@ -8,7 +8,8 @@ Unlike arrays, linked lists do not require contiguous memory locations.
 
 ## 🔹 Node Structure in C
 ```c
-struct Node {
+struct Node
+{
     int data;
     struct Node* next;
 };
