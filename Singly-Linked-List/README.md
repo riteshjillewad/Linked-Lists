@@ -25,3 +25,20 @@ Head → [10 | *] → [20 | *] → [30 | NULL]
 ```
 * The `Head` points to the first node.
 * The `next` of the last node is NULL indicating the end of the list.
+
+---
+
+## 🔹 Basic Operations in Singly Linked List
+
+| Function Name       | Purpose                                              | Time Complexity |
+|---------------------|------------------------------------------------------|-----------------|
+| `InsertFirst()`     | Inserts a new node at the beginning of the list      | O(1)            |
+| `InsertLast()`      | Inserts a new node at the end of the list            | O(n)            |
+| `InsertAtPos()`     | Inserts a node at a specific position                | O(n)            |
+| `DeleteFirst()`     | Removes the first node                               | O(1)            |
+| `DeleteLast()`      | Removes the last node                                | O(n)            |
+| `DeleteAtPos()`     | Deletes a node from a given position                 | O(n)            |
+| `Display()`         | Prints all elements of the list                      | O(n)            |
+| `CountNodes()`      | Returns the total number of nodes in the list        | O(n)            |
+| `Search()`          | Finds the position of a given element (if exists)    | O(n)            |
+
