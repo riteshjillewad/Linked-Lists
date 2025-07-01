@@ -44,3 +44,8 @@ Head → [10 | *] → [20 | *] → [30 | NULL]
 | `CountNodes()`      | Returns the total number of nodes in the list        | O(n)            |
 | `Search()`          | Finds the position of a given element (if exists)    | O(n)            |
 
+---
+
+## Author
+Ritesh Jillewad <br>
+01-07-2025
