@@ -16,3 +16,12 @@ struct Node
     int data;
     struct Node* next;
 };
+```
+---
+
+## 🔹 Memory Representation
+```
+Head → [10 | *] → [20 | *] → [30 | NULL]
+```
+* The `Head` points to the first node.
+* The `next` of the last node is NULL indicating the end of the list.
