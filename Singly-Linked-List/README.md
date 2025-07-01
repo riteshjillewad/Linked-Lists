@@ -1,5 +1,7 @@
 # 🔹 Singly Linked List
 
+![Image](https://github.com/user-attachments/assets/e54ab697-3f97-4a85-afac-dea5d6eb2e35)
+
 A **Singly Linked List (SLL)** is a linear data structure in which each element is called a **node**, and each node contains:
 - **Data** – The value stored in the node.
 - **Next** – A pointer/reference to the next node in the list.  
