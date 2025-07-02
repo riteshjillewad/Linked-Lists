@@ -30,6 +30,8 @@ struct Node
 ```c
 NULL ← [10 | * | *] ⇄ [20 | * | *] ⇄ [30 | * | NULL]
 ```
+* Each node has links to both the previous and next nodes.
+* The prev of the first node and next of the last node are NULL.
 
 ## Author
 Ritesh Jillewad <br>
