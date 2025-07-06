@@ -55,8 +55,6 @@ A circular doubly linked list is an advanced version:
 ---
 
 
----
-
 ## ▶️ How It Works
 
 ### 🔸 Sample Menu (in terminal)
@@ -105,4 +103,9 @@ struct Node
 * `prev`: points to previous node
 * `next`: points to next node
 
+---
+
+## ✅ Author
+👨‍💻 Ritesh Jillewad <br>
+🗓️ Date: 05-07-2025
 
