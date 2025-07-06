@@ -77,3 +77,32 @@ A circular doubly linked list is an advanced version:
 ```
 
 
+### 🔸 Example Output
+
+```
+Enter value to insert at first: 10
+Enter value to insert at last: 50
+Enter value: 30 at position: 2
+Circular Doubly Linked List:
+| 10 | <-> | 30 | <-> | 50 | <->
+Total nodes: 3
+```
+
+
+---
+
+## 🧠 Data Structure Used
+
+```c
+struct Node 
+{
+    int data;
+    struct Node* prev;
+    struct Node* next;
+};
+```
+
+`prev`: points to previous node
+`next`: points to next node
+
+
