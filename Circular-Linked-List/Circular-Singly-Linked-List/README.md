@@ -37,3 +37,16 @@ A **Circular Singly Linked List (CSLL)** is a type of linked list where:
 
 ## 🧪 Sample Menu
 
+```
+==== Circular Singly Linked List Menu ====
+
+1. Insert at Beginning
+2. Insert at Ending
+3. Insert at Position
+4. Delete First
+5. Delete Last
+6. Delete at Position
+7. Display
+8. Count Nodes
+9. Exit
+```
