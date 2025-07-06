@@ -64,27 +64,16 @@ A circular doubly linked list is an advanced version:
 ```
 ===== Circular Doubly Linked List Menu =====
 
-Insert First
+1. Insert First
+2. Insert Last
+3. Insert at Position
+4. Delete First
+5. Delete Last
+6. Delete at Position
+7. Display List
+8. Count Nodes
+9. Exit
 
-Insert Last
-
-Insert at Position
-
-Delete First
-
-Delete Last
-
-Delete at Position
-
-Display List
-
-Count Nodes
-
-Exit
-
-shell
-Copy
-Edit
 ```
 
 
