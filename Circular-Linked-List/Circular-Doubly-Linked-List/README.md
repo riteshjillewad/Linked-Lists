@@ -54,6 +54,37 @@ A circular doubly linked list is an advanced version:
 
 ---
 
-## 📂 File Structure
+
+---
+
+## ▶️ How It Works
+
+### 🔸 Sample Menu (in terminal)
+
+```
+===== Circular Doubly Linked List Menu =====
+
+Insert First
+
+Insert Last
+
+Insert at Position
+
+Delete First
+
+Delete Last
+
+Delete at Position
+
+Display List
+
+Count Nodes
+
+Exit
+
+shell
+Copy
+Edit
+```
 
 
