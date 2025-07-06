@@ -50,3 +50,23 @@ A **Circular Singly Linked List (CSLL)** is a type of linked list where:
 8. Count Nodes
 9. Exit
 ```
+
+
+
+---
+
+## 🔄 Data Structure Used
+
+```c
+struct Node
+{
+    int data;
+    struct Node* next;
+};
+```
+
+---
+
+## 👨‍💻 Author
+Ritesh Jillewad <br>
+Date: 04-07-2025
