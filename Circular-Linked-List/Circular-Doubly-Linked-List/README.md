@@ -102,7 +102,7 @@ struct Node
 };
 ```
 
-`prev`: points to previous node
-`next`: points to next node
+* `prev`: points to previous node
+* `next`: points to next node
 
 
